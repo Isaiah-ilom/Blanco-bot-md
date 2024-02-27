@@ -15,16 +15,16 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/Giftedmaurice/gifted-bot-md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/Bennyblanco9116/gifted-bot-md";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/DQ6KNRlDuY0KJYJegr5JcZ";
+global.website=process.env.GURL || "https://chat.whatsapp.com/DQ6KNRlDuY0KJYJegr5JcZ" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e7d96bd40d61ce26cc53f.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "254728782591" // Developer Contact
+global.devs = "254740915718" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254740915718";
 
 
 
