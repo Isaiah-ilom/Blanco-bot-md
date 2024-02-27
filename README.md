@@ -93,11 +93,11 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+254728782591`](https://wa.me/254728782591)
+- If any problem, then [`+254740915718`](https://wa.me/254740915718)
 
 
 ### Thanks To
-- [Gifted Tech](https://github.com/Giftedmaurice) 
+- [Blanco Tech](https://github.com/Bennyblanco9116) 
 
 
 
