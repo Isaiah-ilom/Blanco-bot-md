@@ -1,8 +1,8 @@
- <h1 align="center"> BLANCO ʙᴏᴛ ᴍᴅ🔥 </h1> 
-<p align="center"> Introducing Blanco ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> Rapheal ʙᴏᴛ ᴍᴅ🔥 </h1> 
+<p align="center"> Introducing Raphael ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://github.com/Bennyblanco9116/gifted-bot-md">
+  <a href="https://github.com/Isaiah-ilon/gifted-bot-md">
     <img alt="Suhail docs" height="300" src="https://telegra.ph/file/e7d96bd40d61ce26cc53f.jpg">
   </a>
 </p>
@@ -10,7 +10,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254740915718?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+2348180146181?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
