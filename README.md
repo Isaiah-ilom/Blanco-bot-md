@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Isaiah-ilom/gifted-bot-md">
-    <img alt="Suhail docs" height="300" width= "150" src="https://tinyurl.com/2793ccuv">
+    <img alt="Suhail docs" height="100px"src="https://tinyurl.com/2793ccuv">
   </a>
 </p>
     
